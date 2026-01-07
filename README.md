@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/vyngochi/">
     <img alt="Vy LinkedIn" width="36px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=0082ff" />
   </a>
-  <img src="https://github.com/vyngochi/vyngochi/blob/main/VySocialLogo.png" width="22%" align="right" alt="Vy Logo" />
+  <img src="https://github.com/vyngochi/vyngochi/blob/main/VySocialLogo.png" width="15%" align="right" alt="Vy Logo" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
   <img height="24" src="https://icongr.am/simple/nodejs.svg?size=128&color=9ca3af" />
   &nbsp;
   <img height="24" src="https://icongr.am/simple/git.svg?size=128&color=9ca3af" />
-  <img src="https://github.com/vyngochi/vyngochi/blob/main/codelogo.png" width="22%" align="right" alt="Code Illustration" />
+  <img src="https://github.com/vyngochi/vyngochi/blob/main/codelogo.png" width="15%" align="right" alt="Code Illustration" />
 </p>
 
 ---
